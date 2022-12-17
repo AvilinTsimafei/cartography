@@ -1,0 +1,20 @@
+<MapWinGIS OcxVersion="4.8" FileType="LayerFile" FileVersion="0" Description="">
+  <Layer LayerType="Shapefile" LayerName="Pliamiony IX-X" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="12047546" LineColor="9868950" Visible="0" />
+      <ShapefileCategoriesClass ClassificationField="0" FieldType="1">
+        <ShapefileCategoryClass Name="???????" Expression="[MWShapeID] = 0" Value="0">
+          <ShapeDrawingOptionsClass FillColor="12047546" FillColor2="12047546" FillType="1" LineColor="9868950" LineTransparency="177.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="?????????" Expression="[MWShapeID] = 1" Value="1">
+          <ShapeDrawingOptionsClass FillColor="12047546" FillColor2="12047546" FillHatchStyle="1" FillType="1" LineColor="9868950" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="?????????" Expression="[MWShapeID] = 2" Value="2">
+          <ShapeDrawingOptionsClass FillColor="12047546" FillColor2="12047546" FillHatchStyle="7" FillType="1" LineColor="9868950" />
+        </ShapefileCategoryClass>
+      </ShapefileCategoriesClass>
+      <LabelsClass Generated="0" AvoidCollisions="0" Positioning="1" TextRenderingHint="5" />
+      <ChartsClass ValuesFontName="" />
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

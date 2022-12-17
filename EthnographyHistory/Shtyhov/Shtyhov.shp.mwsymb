@@ -1,0 +1,16 @@
+<MapWinGIS OcxVersion="4.8" FileType="LayerFile" FileVersion="0" Description="">
+  <Layer LayerType="Shapefile" LayerName="Shtyhov" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="16777215" LineTransparency="201.000000" LineStipple="3">
+        <LinePatternClass Key="" Transparency="201">
+          <LineSegments>
+            <LineSegmentClass LineType="0" Color="0" MarkerOutlineColor="7895160" LineWidth="1.000000" MarkerSize="12.000000" MarkerInterval="16.000000" MarkerOffset="0.000000" LineStyle="3" Marker="2" MarkerOrientation="1" MarkerFlipFirst="-1" />
+          </LineSegments>
+        </LinePatternClass>
+      </DefaultDrawingOptions>
+      <ShapefileCategoriesClass />
+      <LabelsClass Generated="0" AvoidCollisions="0" Positioning="6" TextRenderingHint="5" />
+      <ChartsClass ValuesFontName="" />
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>
